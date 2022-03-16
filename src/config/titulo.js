@@ -1,2 +1,2 @@
 module.exports =
-  'Componente Formativo con un nombre extremadamente largo y extenso'
+  'Constitución de organizaciones de economía solidaria.'

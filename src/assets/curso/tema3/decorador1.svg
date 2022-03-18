@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="13.296" viewBox="0 0 1030 13.296">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_212702" data-name="Trazado 212702" d="M281.022,326.449a2.963,2.963,0,1,0,2.963-2.963,2.963,2.963,0,0,0-2.963,2.963" transform="translate(-281.022 -323.486)" fill="#727997"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_182475" data-name="Grupo 182475" transform="translate(-231.008 -1762)">
+    <line id="Línea_645" data-name="Línea 645" x2="1005.361" transform="translate(243.589 1768.5)" fill="none" stroke="#8b91a7" stroke-width="3.5"/>
+    <g id="Grupo_182472" data-name="Grupo 182472" transform="translate(231.008 1762)">
+      <g id="Grupo_180651" data-name="Grupo 180651" transform="translate(3.685 3.605)">
+        <g id="Grupo_175269" data-name="Grupo 175269" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_58132" data-name="Rectángulo 58132" width="8.374" height="8.374" transform="translate(-2.952 2.71) rotate(-42.553)" fill="#727997"/>
+        </g>
+      </g>
+      <path id="Trazado_216472" data-name="Trazado 216472" d="M270.654,306.235c-.079,0-.158,0-.239,0-.207,0-.412.009-.615.028a6.649,6.649,0,0,0,0,13.24c.2.019.408.028.615.028.081,0,.16,0,.239,0a6.648,6.648,0,0,0,0-13.287m0,11.626c-.079,0-.158.006-.239.006a4.881,4.881,0,0,1-.615-.038,4.988,4.988,0,0,1,0-9.9,4.875,4.875,0,0,1,.615-.039c.081,0,.16,0,.239.006a4.988,4.988,0,0,1,0,9.965" transform="translate(-263.768 -306.231)" fill="#727997"/>
+    </g>
+    <g id="Grupo_182473" data-name="Grupo 182473" transform="translate(1247.713 1762)">
+      <g id="Grupo_180651-2" data-name="Grupo 180651" transform="translate(3.685 3.605)">
+        <g id="Grupo_175269-2" data-name="Grupo 175269" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_58132-2" data-name="Rectángulo 58132" width="8.374" height="8.374" transform="translate(-2.952 2.71) rotate(-42.553)" fill="#727997"/>
+        </g>
+      </g>
+      <path id="Trazado_216472-2" data-name="Trazado 216472" d="M270.654,306.235c-.079,0-.158,0-.239,0-.207,0-.412.009-.615.028a6.649,6.649,0,0,0,0,13.24c.2.019.408.028.615.028.081,0,.16,0,.239,0a6.648,6.648,0,0,0,0-13.287m0,11.626c-.079,0-.158.006-.239.006a4.881,4.881,0,0,1-.615-.038,4.988,4.988,0,0,1,0-9.9,4.875,4.875,0,0,1,.615-.039c.081,0,.16,0,.239.006a4.988,4.988,0,0,1,0,9.965" transform="translate(-263.768 -306.231)" fill="#727997"/>
+    </g>
+  </g>
+</svg>

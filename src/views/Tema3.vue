@@ -20,7 +20,7 @@
     .container-text-comillas.ps-0.pd-md-5.mb-5
       .bloque-texto-c.color-secundario.p-4.ms-0.ms-md-0
         i.fas.fa-quote-right(style="color: #EA3065")
-        p.px-3.px-4 “Las entidades de naturaleza cooperativa, los fondos de empleados y las asociaciones mutuales, así como sus organismos de integración y las instituciones auxiliares del cooperativismo son entidades sin ánimo de lucro y se constituirán por escritura pública o documento privado, el cual deberá ser suscrito por todos los asociados fundadores y contener constancia acerca de la aprobación de los estatutos de la empresa asociativa”.
+        p.px-3.px-4 “Las entidades de naturaleza cooperativa, los fondos de empleados y las asociaciones mutuales, así como sus organismos de integración y las instituciones auxiliares del cooperativismo son entidades sin ánimo de lucro y se constituirán por escritura pública o documento privado, el cual deberá ser suscrito por todos los asociados fundadores y contener constancia acerca de la aprobación de los estatutos de la empresa asociativa”.  (Cámara de Comercio de Bogotá, s. f.)
       img(src="@/assets/curso/tema3/decorador.svg" style="max-width: 41px").ms-3.ms-md-5.me-md-4
     
     .container-text-bg-100.mb-5
@@ -29,8 +29,8 @@
 
     .d-flex.mb-0
       img(src="@/assets/curso/introduccion/decorador_point.svg" style="max-width: 10px").me-3
-      p.fw-bold.mb-0 Figura 1
-    p.ms-4.mb-5 <em>Régimen normativo</em>
+      p.fw-bold.mb-0 Figura 2
+    p.ms-4.mb-5 <em>Entidades de inspección, vigilancia y control</em>
 
     img(src="@/assets/curso/tema3/decorador1.svg")
     .col-12.d-flex.flex-wrap.ps-0.ps-md-4.pt-4.d-flex
@@ -39,15 +39,15 @@
       .col-12.col-md-3.d-flex.align-items-center
         p.px-md-4.text-md-center Las cooperativas especializadas y/o multiactivas y/o integrales que no ejercen actividad financiera.
       .col-12.col-md-2.d-flex.align-items-center
-        p.pe-md-4.text-center Fondos de empleados
+        p.pe-md-4.text-center Fondos de empleados.
       .col-12.col-md-2.ps-0.ps-md-4.d-flex.align-items-center
-        p.text-center Asociaciones mutuales
+        p.text-center Asociaciones mutuales.
       .col-12.col-md-2.ms-md-5.d-flex.align-items-center
-        p.text-center Cooperativas de trabajo asociado
+        p.text-center Cooperativas de trabajo asociado.
     img(src="@/assets/curso/tema3/img_t_3-1.png").col-12.col-md-11.mx-auto.py-5.mb-4
     .col-12.d-flex.flex-wrap.ps-0.ps-md-4.d-flex
       .col-12.col-md-2.ps-0.ps-md-3
-        p.text-center <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016
+        p.text-center <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
       .col-12.col-md-3
         p.px-4.text-center <b>Superintendencia Bancaria</b> (actualmente Superintendencia Financiera) (Ley 79 de 1988, Ley 454 de 1998).
       .col-12.col-md-2
@@ -92,7 +92,9 @@
             img(src="@/assets/curso/tema3/img_t_3-3.png" style="max-width: 216px").mx-auto
           p(style="color: black !important") La Supersolidaria es la encargada de supervisar la gestión empresarial, económica, social y política de las organizaciones sin ánimo de lucro velando por que se conserve los principios y valores corporativos que implican el buen gobierno. <br><br>
             | En consecuencia, esta supervisión se realiza a través de la solicitud de control de legalidad, después de que la empresa solidaria se registre en la Cámara de Comercio correspondiente, mediante el portal de sede electrónica en donde encontrará el enlace para iniciar el trámite, el cual se denomina Control de legalidad de la constitución de entidades del sector real sometidas a supervisión de la Superintendencia de la Economía Solidaria.
-
+          <audio controls class="audio_1">
+            <source :src="obtenerLink('/downloads/audio_1.mp3')">
+          </audio>
 
       div(x="81%" y="65%" tooltip="tooltip de max 35 caracteres" numero="")
         .modal-dos-infografia
@@ -136,7 +138,7 @@
 
     .col-12.mb-5
       .cajon.color-acento-contenido.p-4.mb-4.bg-text_t_3-1.flex-wrap.flex-md-nowrap
-        img(src="@/assets/curso/tema3/img_t_3-4.png" style="max-width: 118px; min-height: 132px; margin-top: -2.5rem").mx-md-3
+        img(src="@/assets/curso/tema3/img_t_3-4.png" style="max-width: 118px; min-height: 132px; max-height: 132px; margin-top: -2.5rem").mx-md-3
         p En el material complementario se podrá consultar la guía de buen gobierno para las organizaciones vigiladas por la Superintendencia de la Economía Solidaria y profundizar en las pautas a seguir para garantizar el éxito de la gestión empresarial en este tipo de organizaciones solidarias; así mismo, están los enlaces en los que se realizan los anteriores trámites.
       img(src="@/assets/curso/tema3/decorador8.svg" style="max-width: 84px").ms-auto
 </template>
@@ -260,14 +262,22 @@ export default {
     color: white !important
 .pasos-a.color-primario .pasos-a__numero::after
   border-color: #491079
+  border-radius: 0
 .pasos-a.color-primario .pasos-a__linea .hor-line
   border-color: #491079
+  border-radius: 0
 .pasos-a.color-primario .pasos-a__linea__esquina__linea
   border-color: #491079
+  border-radius: 0
 .bg-text_t_3-1.cajon.color-acento-contenido
   background-color: #DFF6C3 !important
   display: flex
   max-height: 104px
   &::before
     background-color: #A6E65A
+@media (max-width: 1400px)
+  .bg-text_t_3-1.cajon.color-acento-contenido
+    max-height: none
+.mejs-container .mejs-controls
+  background: #491079 !important
 </style>

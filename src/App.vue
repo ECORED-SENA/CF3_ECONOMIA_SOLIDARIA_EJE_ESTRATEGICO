@@ -35,6 +35,9 @@ export default {
 .banner-principal__componente
   h1
     color: black !important
+.banner-principal__accion
+  span, i
+    color: white !important
 .banner-principal__descripcion
   p
     color: black !important
@@ -42,4 +45,5 @@ export default {
   min-height: 507px
 .banner-interno__fondo
   background-image: url(assets/curso/fondo_temas.png) !important
+  background-position: initial !important
 </style>

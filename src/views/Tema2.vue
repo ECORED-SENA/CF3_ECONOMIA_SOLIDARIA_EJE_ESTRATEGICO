@@ -14,9 +14,10 @@
 
     .d-flex.flex-wrap.mb-5
       .col-12.col-md-6.mb-4.my-md-auto
-        img(src="@/assets/curso/tema2/decorador1.svg" style="max-width: 272px").mb-4
+        img(src="@/assets/curso/tema2/decorador1.svg" style="max-width: 272px").mb-4.ms-3
         div(style="background-color: #DDF6C0").p-3.p-md-4.m-0.mx-md-3
           p.mb-0 El Decreto Ley 2150 de 1995, en el cual se suprimen y reforman regulaciones, procedimientos o trámites innecesarios existentes en la administración pública, en el artículo 143, menciona que:
+        img(src="@/assets/curso/tema2/decorador-5.svg" style="max-width: 84px").mt-4.mt-md-5.ms-3
       .col-12.col-md-6.container-text-comillas.px-0.ps-md-3.pe-md-4
         .bloque-texto-c.color-secundario.p-4
           i.fas.fa-quote-right(style="color: #EA3065")
@@ -28,15 +29,15 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Q0qthRiYOU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5 Una vez se ha conocido en qué consiste el proceso, ahora se profundizará en cada paso explicado a través del siguiente PDF
+    p.mb-5 Una vez se ha conocido en qué consiste el proceso, ahora se profundizará en cada paso explicado a través del siguiente recurso interactivo:
   
     .d-flex.mb-5
       img(src="@/assets/curso/tema2/decorador2.svg" style="max-width: 10px").me-3
       span(style="background-color: #C9EFF5").py-1.px-2.fw-bold Pasos para la constitución de una empresa
 
-    img(src="@/assets/curso/tema2/img_t_2-1.svg").mb-5.pb-5
+    img(src="@/assets/curso/tema2/img_t_2-1.png").mb-5.pb-5
 
     .container_link.position-relative.col-12.col-md-11.mx-auto.d-flex.flex-wrap.flex-md-nowrap.mb-5
       img(src="@/assets/curso/tema2/img_t_2-2.png" style="max-width: 419px; margin-top: -2.5rem")

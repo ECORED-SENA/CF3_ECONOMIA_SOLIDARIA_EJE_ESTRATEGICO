@@ -2,6 +2,15 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+    .titulo-principal.color-primario
+      .titulo-principal__numero
+        span(style="color: white") D
+      h1 SÍNTESIS
+
+    .d-flex.mb-5
+      img(src="@/assets/curso/introduccion/decorador1.svg" style="max-width: 10px").me-3
+      .container-texti-before-after
+        p.p-0.ps-md-5 Para la constitución, permanencia y liquidación de empresas de economía solidaria se requiere cumplir por normativa jurídica y ante los entes de control una serie de requisitos y trámites que garanticen la transparencia, idoneidad, diligencia y compromiso de las organizaciones solidarias con sus asociados, con el Estado y con la sociedad en pro de contribuir al desarrollo social y económico de las comunidades. La siguiente figura presenta lo expuesto en este componente:
 
     .d-flex
       img(src="@/assets/curso/introduccion/decorador_point.svg" style="max-width: 10px").me-3
@@ -42,4 +51,25 @@ export default {
   background-color: #DFF6C3 !important
   &::before
     background-color: #A6E65A
+.container-texti-before-after
+  position: relative
+  p
+    position: relative
+    z-index: 1
+  &::after
+    position: absolute
+    content: ''
+    top: 0
+    left: 0
+    height: 45%
+    width: 40%
+    background-color: #D9E0E1
+  &::before
+    position: absolute
+    content: ''
+    bottom: 0
+    right: 0
+    height: 45%
+    width: 40%
+    background-color: #D9E0E1
 </style>

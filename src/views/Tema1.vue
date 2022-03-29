@@ -10,10 +10,10 @@
     .container-text-bg.mb-5
       img(src="@/assets/curso/tema1/decorador.svg" style="max-width: 39px; position: relative; z-index: 1").mx-3.pt-2
       div(style="z-index: 1; position: relative").pe-0.pe-md-4
-        p.mb-4.mb-md-0 Un aspecto principal en el normal desarrollo de las actividades empresariales es el cumplimiento de la normativa, el cual se da a través de su forma jurídica. El siguiente video presenta la importancia de la constitución formal: La constitución es un término utilizado para referirse a la vida jurídica de las organizaciones empresariales que nacen a partir de la idea o intención que tienen los emprendedores y que se reflejan en sus modelos de negocio, para que posteriormente se analicen las alternativas jurídicas y se proceda a la creación de la empresa con o sin ánimo de lucro.
+        p.mb-4.mb-md-0 La constitución es un término utilizado para referirse a la vida jurídica de las organizaciones empresariales que nacen a partir de la idea o intención que tienen los emprendedores y que se reflejan en sus modelos de negocio, para que posteriormente se analicen las alternativas jurídicas y se proceda a la creación de la empresa con o sin ánimo de lucro.
         img(src="@/assets/curso/introduccion/decorador.svg" style="max-height: 10px; max-width: 84px").ms-auto
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.col-12.col-md-9.mx-auto.mb-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.col-12.col-md-10.col-xl-9.mx-auto.mb-5.container-texto-bloque-g
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img_t_1-1.png')})`}"
         style="width: 100%"
@@ -23,7 +23,7 @@
     
     .container-bg-right.mb-5
       img(src="@/assets/curso/tema1/decorador1.svg" style="max-width: 79px").me-3
-      p.my-3(style="z-index: 1; position: relative") Con esta gestión legal para la constitución se da el primer paso de lo que se conoce como la formalización empresarial, que el Estado impulsa no solo como mecanismo para disminuir la <b>informalidad empresarial</b>, sino como una estrategia trazada desde el Plan Nacional de Desarrollo para la construcción de equidad social y el trabajo decente para todos los ciudadanos. 
+      p.my-3.texto-gris-padding(style="z-index: 1; position: relative") Con esta gestión legal para la constitución se da el primer paso de lo que se conoce como la <b>formalización empresarial,</b> que el Estado impulsa no solo como mecanismo para disminuir la informalidad empresarial, sino como una estrategia trazada desde el Plan Nacional de Desarrollo para la construcción de equidad social y el trabajo decente para todos los ciudadanos. 
 
     .big-container.mb-5
       img(src="@/assets/curso/tema1/decorador2.svg" style="max-width: 39px").ms-0.me-3.mx-md-4
@@ -170,4 +170,12 @@ export default {
     height: 50%
     width: 40%
     background-color: #DDF6C0
+.container-texto-bloque-g
+  .bloque-texto-g__texto
+    width: 65%
+.texto-gris-padding
+  padding-right: 4rem
+@media (max-width: 768px)
+  .texto-gris-padding
+    padding-right: 0
 </style>

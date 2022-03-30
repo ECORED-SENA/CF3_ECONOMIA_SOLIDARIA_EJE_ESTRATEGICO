@@ -32,7 +32,7 @@
       p.fw-bold.mb-0 Figura 2
     p.ms-4.mb-5 <em>Entidades de inspección, vigilancia y control</em>
 
-    img(src="@/assets/curso/tema3/decorador1.svg")
+    img(src="@/assets/curso/tema3/decorador1.svg").col-12.col-md-11.mx-auto
     .col-12.d-flex.flex-wrap.ps-0.ps-md-4.pt-4.d-flex
       .col-12.col-md-2.ps-0.ps-md-3.d-flex.align-items-center
         p.text-md-center Las cooperativas especializadas y/o multiactivas y/o integrales que ejercen actividad financiera en los términos del artículo 39 de la Ley 454 de 1998.
@@ -56,7 +56,7 @@
         p.text-center <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
       .col-12.col-md-2.ms-md-5
         p.text-center <b>El Ministerio del Trabajo y la Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
-    img(src="@/assets/curso/tema3/decorador1.svg").mb-5
+    img(src="@/assets/curso/tema3/decorador1.svg").mb-5.col-12.col-md-11.mx-auto
 
     p(style="font-size: 24px; font-weight: bold").col-12.col-md-11.mx-auto.mb-5 Entidad que ejerce inspección, vigilancia y control
   
@@ -102,10 +102,10 @@
           .pe-0.pe-md-5
             p(style="color: black !important").pe-0.pe-md-5.me-0.me-md-5 La Superintendencia Financiera de Colombia es un organismo técnico adscrito al Ministerio de Hacienda y Crédito Público, con personería jurídica, autonomía administrativa y financiera y patrimonio propio y cuya función principal es ejercer la inspección, vigilancia y control sobre las personas que realicen actividades financieras, bursátil, actividades aseguradoras y cualquier otra relacionada con el manejo, aprovechamiento o inversión de recursos captados del público.
             p(style="color: black !important").pe-0.pe-md-5.me-0.me-md-5 Así mismo, tiene como objetivo supervisar el sistema financiero colombiano para preservar su estabilidad, seguridad y confianza, así como, promover, organizar y desarrollar el mercado de valores colombiano y la protección de los inversionistas, ahorradores y asegurados. (Superfinanciera, s. f.). <br><br>
-              | Es así como las cooperativas que desarrollen actividades financieras que impliquen la captación, manejo y colocación de recursos al público están vigiladas por la Superfinanciera
+              | Es así como las cooperativas que desarrollen actividades financieras que impliquen la captación, manejo y colocación de recursos al público están vigiladas por la Superfinanciera.
 
     .container-text-img-bg-left.flex-wrap.flex-md-nowrap
-      p.ps-0.ps-md-5 Por su parte, los trámites más relevantes que se realizan ante la Superfinanciera a través del portal web www.gov.co, Portal Único del Estado Colombiano, son los que se aprecian en la siguiente figura:
+      p.ps-0.ps-md-5 Por su parte, los trámites más relevantes que se realizan ante la Superfinanciera a través del portal web <a target="_blank" href="https://www.gov.co/home/">www.gov.co</a>, Portal Único del Estado Colombiano, son los que se aprecian en la siguiente figura:
       div(style="max-width: 479px; width: 100%")
         img(src="@/assets/curso/tema3/decorador5.svg" style="max-width: 479px;").mb-3
         img(src="@/assets/curso/tema3/decorador6.svg" style="max-width: 84px; width: 100%").ms-auto
@@ -118,13 +118,13 @@
     PasosA.color-primario.mb-5(tipo="n").pasos_t_3
       .row
         .col-12.mb-4.mb-md-0
-          h3 Inscripción de entidades cooperativas con actividad financiera.
-          p La inscripción ante Fogacoop (Fondo de Garantías de Entidades Cooperativas) es obligatoria para todas aquellas entidades cooperativas que ejerzan actividad financiera. Es decir, que captan y colocan recursos de sus asociados o de terceros, según la naturaleza de la cooperativa. Este trámite tiene una duración hasta de 90 días y entre los documentos más relevantes a presentar son: estudio financiero de la entidad y el certificado sobre el cumplimiento del monto de los aportes sociales, entre otros
+          h3 Inscripción de entidades cooperativas con actividad financiera
+          p La inscripción ante Fogacoop (Fondo de Garantías de Entidades Cooperativas) es obligatoria para todas aquellas entidades cooperativas que ejerzan actividad financiera. Es decir, que captan y colocan recursos de sus asociados o de terceros, según la naturaleza de la cooperativa. Este trámite tiene una duración hasta de 90 días y entre los documentos más relevantes a presentar son: estudio financiero de la entidad y el certificado sobre el cumplimiento del monto de los aportes sociales, entre otros.
 
       .row
         .col-12.mb-4.mb-md-0
-          h3 Conversión y especialización de cooperativas de ahorro y crédito, multiactivas o integrales en cooperativas financieras.
-          p Este trámite no tiene costo y consiste en solicitar la conversión o especialización de una empresa solidaria en cooperativa financiera; el trámite puede durar 75 días hábiles y como resultado del mismo, se expide una comunicación, negación o autorización para que una cooperativa de ahorro y crédito, multiactiva o integral se convierta o especialice en una cooperativa financiera
+          h3 Conversión y especialización de cooperativas de ahorro y crédito, multiactivas o integrales en cooperativas financieras
+          p Este trámite no tiene costo y consiste en solicitar la conversión o especialización de una empresa solidaria en cooperativa financiera; el trámite puede durar 75 días hábiles y como resultado del mismo, se expide una comunicación, negación o autorización para que una cooperativa de ahorro y crédito, multiactiva o integral se convierta o especialice en una cooperativa financiera.
       
       .row
         .col-12.mb-4.mb-md-0
@@ -133,7 +133,7 @@
       
       .row
         .col-12.mb-4.mb-md-0
-          h3 Autorización para el desmonte del ejercicio de la actividad financiera.
+          h3 Autorización para el desmonte del ejercicio de la actividad financiera
           p Consiste en que una vez los asociados hayan tomado la decisión de no continuar ejerciendo la actividad financiera, para esto, también se debe solicitar autorización ante la Superintendencia de la Economía Solidaria; este trámite puede tardar hasta 30 días y no tiene costo. Los documentos requeridos son el acta de asamblea donde conste que no se continuará con la actividad financiera, acta del consejo de administración, estados financieros, entre otros.
 
     .col-12.mb-5

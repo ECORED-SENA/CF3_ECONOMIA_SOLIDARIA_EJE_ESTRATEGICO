@@ -8,7 +8,7 @@
       h1 Constitución de organizaciones de economía solidaria
 
     .container-text-bg.mb-5
-      img(src="@/assets/curso/tema1/decorador.svg" style="max-width: 39px; position: relative; z-index: 1").mx-3.pt-2
+      img(src="@/assets/curso/tema1/decorador.svg" style="max-width: 39px; position: relative; z-index: 1").col-2.col-md-1.mx-3.pt-2
       div(style="z-index: 1; position: relative").pe-0.pe-md-4
         p.mb-4.mb-md-0 La constitución es un término utilizado para referirse a la vida jurídica de las organizaciones empresariales que nacen a partir de la idea o intención que tienen los emprendedores y que se reflejan en sus modelos de negocio, para que posteriormente se analicen las alternativas jurídicas y se proceda a la creación de la empresa con o sin ánimo de lucro.
         img(src="@/assets/curso/introduccion/decorador.svg" style="max-height: 10px; max-width: 84px").ms-auto
@@ -64,7 +64,7 @@
     p.ms-4 <em>Régimen normativo</em>
 
     img(src="@/assets/curso/tema1/decorador6.svg" style="max-width: 78px").ms-auto
-    img(src="@/assets/curso/tema1/img_t_1-2.png").col-12.col-md-11.ms-auto.mb-5
+    img(src="@/assets/curso/tema1/img-1.svg").col-12.col-md-11.ms-auto.mb-5
 
     div(style="background-color: #FFF2CC").mb-5
       p.text-center.py-2.mb-0 En esta legislación se describen los requisitos exigidos para la creación de este tipo de personas jurídicas.

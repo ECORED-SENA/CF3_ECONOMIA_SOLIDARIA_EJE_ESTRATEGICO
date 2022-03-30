@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Constitución de organizaciones de economía solidaria.',
     descripcionCurso:
-      'Las Cámaras de Comercio son organizaciones sin ánimo de lucro de carácter corporativo y gremial, responsables de llevar el registro mercantil, actos y documentos que allí se inscriban, de las personas o empresas que ejercen actividades mercantiles en todo el territorio colombiano, incluyendo también la constitución legal, a través de la personería jurídica, de las empresas de economía solidaria.',
+      'Las Cámaras de comercio son organizaciones sin ánimo de lucro de carácter corporativo y gremial, responsables de llevar el registro mercantil, actos y documentos que allí se inscriban, de las personas o empresas que ejercen actividades mercantiles en todo el territorio colombiano, incluyendo también la constitución legal, a través de la personería jurídica, de las empresas de economía solidaria',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -146,12 +146,12 @@ export default {
       link:
         'https://www.dian.gov.co/tramitesservicios/tramites-y-servicios/tributarios/Paginas/RUT.aspx',
     },
-    {
-      referencia:
-        'Fecor. (2018). <em>Cooperativas vigiladas por la Superintendencia Bancaria.</em>',
-      link:
-        'https://www.fecor.com.co/wp-content/uploads/2018/10/Cooperativas-vigiladas-por-la-Superintendencia-Bancaria.pdf',
-    },
+    // {
+    //   referencia:
+    //     'Fecor. (2018). <em>Cooperativas vigiladas por la Superintendencia Bancaria.</em>',
+    //   link:
+    //     'https://www.fecor.com.co/wp-content/uploads/2018/10/Cooperativas-vigiladas-por-la-Superintendencia-Bancaria.pdf',
+    // },
     {
       referencia:
         'Organización de las Naciones Unidas. (s.f.). <em>Objetivos de desarrollo sostenible.</em> ONU.',
@@ -204,7 +204,7 @@ export default {
         'facultades que tiene la Superintendencia en virtud de sus funciones legales, al representar el interés general que prevalece sobre el interés particular.',
     },
     {
-      termino: 'Registro Mercantil',
+      termino: 'Registro mercantil',
       significado:
         'consiste en llevar la matrícula de los comerciantes, sus establecimientos de comercio y documentos de carácter mercantil, con el fin de generar confianza a sus clientes y proveedores, hacer visible su negocio, facilitar la obtención de créditos financieros y cumplir con los efectos jurídicos que la ley señala (Cámara de Comercio de Cúcuta, 2021).',
     },

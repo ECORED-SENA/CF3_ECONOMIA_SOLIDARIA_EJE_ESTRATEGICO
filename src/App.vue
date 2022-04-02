@@ -43,7 +43,10 @@ export default {
     color: black !important
 .banner-principal__row
   min-height: 507px
+.banner-interno
+  height: 175px
 .banner-interno__fondo
   background-image: url(assets/curso/fondo_temas.png) !important
   background-position: initial !important
+  height: 220px
 </style>

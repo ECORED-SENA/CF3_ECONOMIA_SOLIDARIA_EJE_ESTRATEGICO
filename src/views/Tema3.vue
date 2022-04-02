@@ -8,75 +8,75 @@
       h1 Entidades de inspección, vigilancia y control
     
     .d-flex.align-items-center.mb-5
-      img(src="@/assets/curso/tema1/decorador3.svg" style="max-width: 10px").mx-4.me-md-5
-      .container-text-bg-left-top
+      img(src="@/assets/curso/tema1/decorador3.svg" data-aos="fade-up" style="max-width: 10px").mx-4.me-md-5
+      .container-text-bg-left-top(data-aos="fade-left")
         p.mb-0 En el ámbito internacional, la Agenda de Desarrollo Sostenible 2030 de la (Organización de las Naciones Unidas, s. f.) establece que desde la creación y gestión de las empresas de economía solidaria como organizaciones de la sociedad civil se reconocen como actores por derecho propio del desarrollo y aportan desde el ámbito económico y social al llamado universal para poner fin a la pobreza, proteger el planeta y garantizar que todas las personas gocen de paz y prosperidad para el 2030.
 
     .d-flex.align-items-center.ps-md-5.mb-5
-      img(src="@/assets/curso/tema1/decorador1.svg" style="max-width: 79px").mx-3.mx-md-5
-      .container-bg-text-right-100
+      img(src="@/assets/curso/tema1/decorador1.svg" data-aos="fade-right" style="max-width: 79px").mx-3.mx-md-5
+      .container-bg-text-right-100(data-aos="fade-left")
         p En Colombia, el control para las Entidades Sin Ánimo de Lucro – ESAL se inicia a partir el artículo 189, inciso 26, que establece que: corresponde al Presidente de la República como Jefe de Estado, Jefe del Gobierno y Suprema Autoridad Administrativa:
 
     .container-text-comillas.ps-0.pd-md-5.mb-5
       .bloque-texto-c.color-secundario.p-4.ms-0.ms-md-0
         i.fas.fa-quote-right(style="color: #EA3065")
-        p.px-3.px-4 “Las entidades de naturaleza cooperativa, los fondos de empleados y las asociaciones mutuales, así como sus organismos de integración y las instituciones auxiliares del cooperativismo son entidades sin ánimo de lucro y se constituirán por escritura pública o documento privado, el cual deberá ser suscrito por todos los asociados fundadores y contener constancia acerca de la aprobación de los estatutos de la empresa asociativa”.  (Cámara de Comercio de Bogotá, s. f.)
-      img(src="@/assets/curso/tema3/decorador.svg" style="max-width: 41px").ms-3.ms-md-5.me-md-4
+        p.px-3.px-4(data-aos="fade-right") “Las entidades de naturaleza cooperativa, los fondos de empleados y las asociaciones mutuales, así como sus organismos de integración y las instituciones auxiliares del cooperativismo son entidades sin ánimo de lucro y se constituirán por escritura pública o documento privado, el cual deberá ser suscrito por todos los asociados fundadores y contener constancia acerca de la aprobación de los estatutos de la empresa asociativa”.  (Cámara de Comercio de Bogotá, s. f.)
+      img(src="@/assets/curso/tema3/decorador.svg" data-aos="flip-right" style="max-width: 41px").ms-3.ms-md-5.me-md-4
     
     .container-text-bg-100.mb-5
       img(src="@/assets/curso/introduccion/decorador_point.svg" style="max-width: 10px; z-index: 1").mx-3.mx-md-4.pt-2
-      p Es decir, que está en cabeza del Presidente de la República y a través de las entidades que ejercen la inspección, vigilancia y control de las empresas de economía solidaria como la Superintendencia de la Economía Solidaria y la Superintendencia Financiera. Ya sabiendo lo anterior, es importante conocer por medio de la siguiente figura cuáles formas jurídicas están supervisadas y quién hace esta supervisión:
+      p(data-aos="fade-right") Es decir, que está en cabeza del Presidente de la República y a través de las entidades que ejercen la inspección, vigilancia y control de las empresas de economía solidaria como la Superintendencia de la Economía Solidaria y la Superintendencia Financiera. Ya sabiendo lo anterior, es importante conocer por medio de la siguiente figura cuáles formas jurídicas están supervisadas y quién hace esta supervisión:
 
     .d-flex.mb-0
-      img(src="@/assets/curso/introduccion/decorador_point.svg" style="max-width: 10px").me-3
+      img(src="@/assets/curso/introduccion/decorador_point.svg" data-aos="fade-up" style="max-width: 10px").me-3
       p.fw-bold.mb-0 Figura 2
     p.ms-4.mb-5 <em>Entidades de inspección, vigilancia y control</em>
 
     img(src="@/assets/curso/tema3/decorador1.svg").col-12.col-md-11.mx-auto
     .col-12.d-flex.flex-wrap.ps-0.ps-md-4.pt-4.d-flex
       .col-12.col-md-2.ps-0.ps-md-3.d-flex.align-items-center
-        p.text-md-center Las cooperativas especializadas y/o multiactivas y/o integrales que ejercen actividad financiera en los términos del artículo 39 de la Ley 454 de 1998.
+        p.text-md-center(data-aos="fade-down") Las cooperativas especializadas y/o multiactivas y/o integrales que ejercen actividad financiera en los términos del artículo 39 de la Ley 454 de 1998.
       .col-12.col-md-3.d-flex.align-items-center
-        p.px-md-4.text-md-center Las cooperativas especializadas y/o multiactivas y/o integrales que no ejercen actividad financiera.
+        p.px-md-4.text-md-center(data-aos="fade-down") Las cooperativas especializadas y/o multiactivas y/o integrales que no ejercen actividad financiera.
       .col-12.col-md-2.d-flex.align-items-center
-        p.pe-md-4.text-center Fondos de empleados.
+        p.pe-md-4.text-center(data-aos="fade-down") Fondos de empleados.
       .col-12.col-md-2.ps-0.ps-md-4.d-flex.align-items-center
-        p.text-center Asociaciones mutuales.
+        p.text-center(data-aos="fade-down") Asociaciones mutuales.
       .col-12.col-md-2.ms-md-5.d-flex.align-items-center
-        p.text-center Cooperativas de trabajo asociado.
+        p.text-center(data-aos="fade-down") Cooperativas de trabajo asociado.
     img(src="@/assets/curso/tema3/img_t_3-1.png").col-12.col-md-11.mx-auto.py-5.mb-4
     .col-12.d-flex.flex-wrap.ps-0.ps-md-4.d-flex
       .col-12.col-md-2.ps-0.ps-md-3
-        p.text-center <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
+        p.text-center(data-aos="fade-up") <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
       .col-12.col-md-3
-        p.px-4.text-center <b>Superintendencia Bancaria</b> (actualmente Superintendencia Financiera) (Ley 79 de 1988, Ley 454 de 1998).
+        p.px-4.text-center(data-aos="fade-up") <b>Superintendencia Bancaria</b> (actualmente Superintendencia Financiera) (Ley 79 de 1988, Ley 454 de 1998).
       .col-12.col-md-2
-        p.pe-md-4.text-center <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
+        p.pe-md-4.text-center(data-aos="fade-up") <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
       .col-12.col-md-2.ps-0.ps-md-4
-        p.text-center <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
+        p.text-center(data-aos="fade-up") <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
       .col-12.col-md-2.ms-md-5
-        p.text-center <b>El Ministerio del Trabajo y la Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
-    img(src="@/assets/curso/tema3/decorador1.svg").mb-5.col-12.col-md-11.mx-auto
+        p.text-center(data-aos="fade-up") <b>El Ministerio del Trabajo y la Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
+    img(src="@/assets/curso/tema3/decorador1.svg" data-aos="fade-down").mb-5.col-12.col-md-11.mx-auto
 
     p(style="font-size: 24px; font-weight: bold").col-12.col-md-11.mx-auto.mb-5 Entidad que ejerce inspección, vigilancia y control
   
-    p(style="border-radius: 24px; background-color: #FFF2CC; padding: 2rem;").col-12.col-md-11.mx-auto.mb-5 Las superintendencias son órganos o entidades públicas de creación legal que hacen parte de la rama ejecutiva del poder público en el orden nacional y cumplen las funciones de inspección, vigilancia y control que les asigne la ley o les delegue el Presidente de la República (Constitución Política de Colombia, 1991).
+    p(style="border-radius: 24px; background-color: #FFF2CC; padding: 2rem;" data-aos="fade-up").col-12.col-md-11.mx-auto.mb-5 Las superintendencias son órganos o entidades públicas de creación legal que hacen parte de la rama ejecutiva del poder público en el orden nacional y cumplen las funciones de inspección, vigilancia y control que les asigne la ley o les delegue el Presidente de la República (Constitución Política de Colombia, 1991).
 
     .cajon.color-acento-contenido.p-4.cajon-color-1.col-md-10.mx-auto.mb-5
-      p.mb-0 Los artículos 38, 66 y 82 de la Ley 489 de 1998 dictan las normas sobre la organización y funcionamiento de las entidades del orden nacional y establecen que las superintendencias podrán ser creadas por la ley como organismos con autonomía administrativa y financiera, sin personería jurídica y harán parte integral del sector de la rama ejecutiva del poder público en el orden nacional o también como entidades descentralizadas, con personería jurídica, autonomía administrativa y patrimonial y sujetas al régimen jurídico contenido en la ley.
+      p.mb-0(data-aos="fade-up") Los artículos 38, 66 y 82 de la Ley 489 de 1998 dictan las normas sobre la organización y funcionamiento de las entidades del orden nacional y establecen que las superintendencias podrán ser creadas por la ley como organismos con autonomía administrativa y financiera, sin personería jurídica y harán parte integral del sector de la rama ejecutiva del poder público en el orden nacional o también como entidades descentralizadas, con personería jurídica, autonomía administrativa y patrimonial y sujetas al régimen jurídico contenido en la ley.
     
     .d-flex.justify-content-between.mb-5
       .d-flex
         img(src="@/assets/curso/introduccion/decorador_point.svg" style="max-width: 10px").me-3
         p.mb-0 A continuación, se profundizará en cada una de estas entidades:
-      img(src="@/assets/curso/tema3/decorador2.svg" style="max-width: 655px").d-none.d-xl-flex
+      img(src="@/assets/curso/tema3/decorador2.svg" data-aos="fade-left" style="max-width: 655px").d-none.d-xl-flex
     
     ImagenInfograficaB.color-primario.mb-5.img-modal-1
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema3/img_t_3-2.png', alt='Texto que describa la imagen')
 
-      div(x="20%" y="65%" tooltip="tooltip de max 35 caracteres" numero="")
+      div(x="20%" y="65%" tooltip="Superintendencia de la economía social" numero="")
         img(src="@/assets/curso/tema3/decorador3.svg").img-modal
         .ps-0.ps-md-5
           p(style="color: black !important").ps-0.ps-md-5.ms-0.ms-md-5 Es una entidad pública que hace parte de la rama ejecutiva encabezada por el presidente de la república y cuya misión es “Trabajar por la sostenibilidad de las organizaciones, la protección de los derechos de los asociados y de la comunidad en general, anticipándose a los desafíos para el posicionamiento y avance de la economía solidaria” (Supersolidaria, 2021).
@@ -96,7 +96,7 @@
             <source :src="obtenerLink('/downloads/audio_1.mp3')">
           </audio>
 
-      div(x="81%" y="65%" tooltip="tooltip de max 35 caracteres" numero="")
+      div(x="81%" y="65%" tooltip="Superintendencia financiera de Colombia" numero="")
         .modal-dos-infografia
           img(src="@/assets/curso/tema3/decorador4.svg").img-modal
           .pe-0.pe-md-5
@@ -117,29 +117,29 @@
 
     PasosA.color-primario.mb-5(tipo="n").pasos_t_3
       .row
-        .col-12.mb-4.mb-md-0
+        .col-12.mb-4.mb-md-0(data-aos="fade-left")
           h3 Inscripción de entidades cooperativas con actividad financiera
           p La inscripción ante Fogacoop (Fondo de Garantías de Entidades Cooperativas) es obligatoria para todas aquellas entidades cooperativas que ejerzan actividad financiera. Es decir, que captan y colocan recursos de sus asociados o de terceros, según la naturaleza de la cooperativa. Este trámite tiene una duración hasta de 90 días y entre los documentos más relevantes a presentar son: estudio financiero de la entidad y el certificado sobre el cumplimiento del monto de los aportes sociales, entre otros.
 
       .row
-        .col-12.mb-4.mb-md-0
+        .col-12.mb-4.mb-md-0(data-aos="fade-right")
           h3 Conversión y especialización de cooperativas de ahorro y crédito, multiactivas o integrales en cooperativas financieras
           p Este trámite no tiene costo y consiste en solicitar la conversión o especialización de una empresa solidaria en cooperativa financiera; el trámite puede durar 75 días hábiles y como resultado del mismo, se expide una comunicación, negación o autorización para que una cooperativa de ahorro y crédito, multiactiva o integral se convierta o especialice en una cooperativa financiera.
       
       .row
-        .col-12.mb-4.mb-md-0
+        .col-12.mb-4.mb-md-0(data-aos="fade-left")
           h3 Autorización para constitución de cooperativas especializadas de ahorro y crédito y multiactivas o integrales con sección de ahorro y crédito.
           p Este trámite se realiza ante la Superintendencia de la Economía Solidaria y consiste en obtener autorización previa para constituir una cooperativa de ahorro y crédito o multiactiva o integral con sección de ahorro y crédito; el proceso puede demorar hasta 120 días y no tiene costo. Los documentos más importantes requeridos para este trámite son: proyecto de estatutos y de reglamento de crédito y cobranza; hoja de vida de sus fundadores; documento donde se acredita la educación cooperativa y estudio de factibilidad que demuestra la viabilidad de la cooperativa, entre otros.
       
       .row
-        .col-12.mb-4.mb-md-0
+        .col-12.mb-4.mb-md-0(data-aos="fade-right")
           h3 Autorización para el desmonte del ejercicio de la actividad financiera
           p Consiste en que una vez los asociados hayan tomado la decisión de no continuar ejerciendo la actividad financiera, para esto, también se debe solicitar autorización ante la Superintendencia de la Economía Solidaria; este trámite puede tardar hasta 30 días y no tiene costo. Los documentos requeridos son el acta de asamblea donde conste que no se continuará con la actividad financiera, acta del consejo de administración, estados financieros, entre otros.
 
     .col-12.mb-5
       .cajon.color-acento-contenido.p-4.mb-4.bg-text_t_3-1.flex-wrap.flex-md-nowrap
-        img(src="@/assets/curso/tema3/img_t_3-4.png" style="max-width: 118px; min-height: 132px; max-height: 132px; margin-top: -2.5rem").mx-md-3
-        p En el material complementario se podrá consultar la guía de buen gobierno para las organizaciones vigiladas por la Superintendencia de la Economía Solidaria y profundizar en las pautas a seguir para garantizar el éxito de la gestión empresarial en este tipo de organizaciones solidarias; así mismo, están los enlaces en los que se realizan los anteriores trámites.
+        img(src="@/assets/curso/tema3/img_t_3-4.png" data-aos="fade-down" style="max-width: 118px; min-height: 132px; max-height: 132px; margin-top: -2.5rem").mx-md-3
+        p(data-aos="fade-left") En el material complementario se podrá consultar la guía de buen gobierno para las organizaciones vigiladas por la Superintendencia de la Economía Solidaria y profundizar en las pautas a seguir para garantizar el éxito de la gestión empresarial en este tipo de organizaciones solidarias; así mismo, están los enlaces en los que se realizan los anteriores trámites.
       img(src="@/assets/curso/tema3/decorador8.svg" style="max-width: 84px").ms-auto
 </template>
 

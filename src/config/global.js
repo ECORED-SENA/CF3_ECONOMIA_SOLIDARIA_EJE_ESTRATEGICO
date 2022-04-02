@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Constitución de organizaciones de economía solidaria.',
     descripcionCurso:
-      'Las Cámaras de comercio son organizaciones sin ánimo de lucro de carácter corporativo y gremial, responsables de llevar el registro mercantil, actos y documentos que allí se inscriban, de las personas o empresas que ejercen actividades mercantiles en todo el territorio colombiano, incluyendo también la constitución legal, a través de la personería jurídica, de las empresas de economía solidaria',
+      'Las cámaras de comercio son organizaciones sin ánimo de lucro de carácter corporativo y gremial, responsables de llevar el registro mercantil, actos y documentos que allí se inscriban, de las personas o empresas que ejercen actividades mercantiles en todo el territorio colombiano, incluyendo también la constitución legal, a través de la personería jurídica, de las empresas de economía solidaria',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },

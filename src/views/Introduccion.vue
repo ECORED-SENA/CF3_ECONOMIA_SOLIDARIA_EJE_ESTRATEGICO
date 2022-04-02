@@ -10,8 +10,8 @@
       h1 Introducción
     
     .containe-color-bg-text.mb-5
-      img(src="@/assets/curso/introduccion/decorador_point.svg" style="max-width: 10px; position: relative; z-index: 1").mx-3.pt-2
-      div(style="z-index: 1; position: relative").pe-0.pe-md-4
+      img(src="@/assets/curso/introduccion/decorador_point.svg" data-aos="zoom-in" style="max-width: 10px; position: relative; z-index: 1").mx-3.pt-2
+      div(style="z-index: 1; position: relative" data-aos="fade-left").pe-0.pe-md-4
         p.mb-4.mb-md-0 Un aspecto principal en el normal desarrollo de las actividades empresariales es el cumplimiento de la normativa, el cual se da a través de su forma jurídica. El siguiente video presenta la importancia de la constitución formal:
         img(src="@/assets/curso/introduccion/decorador.svg" style="max-height: 10px; max-width: 84px").ms-auto
 

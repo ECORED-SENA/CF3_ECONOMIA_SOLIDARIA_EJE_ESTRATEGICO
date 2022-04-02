@@ -18,7 +18,14 @@
       <rect id="Rectángulo_60471" data-name="Rectángulo 60471" width="18.028" height="16.496" transform="translate(0 0)" fill="#757070"/>
     </clipPath>
   </defs>
-  <g id="Grupo_184969" data-name="Grupo 184969" transform="translate(-202.5 -640)">
+  <g id="Grupo_184968" data-name="Grupo 184968" transform="translate(-202.5 -640)">
+    <g id="Grupo_180678" data-name="Grupo 180678" transform="translate(-1825.5 1665) rotate(-90)">
+      <circle id="Elipse_5386" data-name="Elipse 5386" cx="5" cy="5" r="5" transform="translate(236 2102) rotate(90)" fill="#13b0a3"/>
+      <circle id="Elipse_5387" data-name="Elipse 5387" cx="5" cy="5" r="5" transform="translate(236 2088) rotate(90)" fill="#13b0a3"/>
+      <circle id="Elipse_5388" data-name="Elipse 5388" cx="5" cy="5" r="5" transform="translate(236 2074) rotate(90)" fill="#13b0a3"/>
+      <circle id="Elipse_5389" data-name="Elipse 5389" cx="5" cy="5" r="5" transform="translate(236 2058) rotate(90)" fill="#13b0a3"/>
+      <circle id="Elipse_5390" data-name="Elipse 5390" cx="5" cy="5" r="5" transform="translate(236 2028) rotate(90)" fill="#13b0a3"/>
+    </g>
     <text id="Constitución_de_organizaciones_de_economía_solidaria" data-name="Constitución de organizaciones de economía solidaria" transform="translate(474.5 640)" fill="#12263f" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="22.799" y="31">Constitución de organizaciones de economía </tspan><tspan x="267.868" y="61">solidaria</tspan></text>
     <g transform="matrix(1, 0, 0, 1, 202.5, 640)" filter="url(#Rectángulo_60467)">
       <rect id="Rectángulo_60467-2" data-name="Rectángulo 60467" width="559.081" height="48.446" rx="7" transform="translate(317.96 107)" fill="#32d9cb"/>
@@ -39,8 +46,8 @@ Cancelación del impuesto departamental de registro.
 Presentarse en la Cámara de Comercio respectiva.
 
 Formalizar RUT ante la DIAN" transform="translate(492.5 1041)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Realizar curso de educación </tspan><tspan x="0" y="41">cooperativa.</tspan><tspan x="0" y="65"></tspan><tspan x="0" y="89">Aprobación por parte de la </tspan><tspan x="0" y="113">asamblea de los estatutos de </tspan><tspan x="0" y="137">la organización solidaria.</tspan><tspan x="0" y="161"></tspan><tspan x="0" y="185">Cancelación del impuesto </tspan><tspan x="0" y="209">departamental de registro.</tspan><tspan x="0" y="233"></tspan><tspan x="0" y="257">Presentarse en la Cámara de </tspan><tspan x="0" y="281">Comercio respectiva.</tspan><tspan x="0" y="305"></tspan><tspan x="0" y="329">Formalizar RUT ante la DIAN.</tspan></text>
-    <text id="Superintendencia_de_la_Economía_Solidaria." data-name="Superintendencia de la Economía Solidaria." transform="translate(902.5 1075)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Superintendencia de la </tspan><tspan x="0" y="41">Economía Solidaria.</tspan></text>
-    <text id="Superintendencia_Financiera_de_Colombia." data-name="Superintendencia Financiera de Colombia." transform="translate(1162.5 1075)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Superintendencia Financiera </tspan><tspan x="0" y="41">de Colombia.</tspan></text>
+    <text id="Superintendencia_de_la_Economía_Solidaria." data-name="Superintendencia de la Economía Solidaria." transform="translate(902.5 1075)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Superintendencia de la </tspan></text>
+    <text id="Superintendencia_Financiera_de_Colombia." data-name="Superintendencia Financiera de Colombia." transform="translate(1162.5 1075)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Superintendencia Financiera </tspan></text>
     <g id="Grupo_182958" data-name="Grupo 182958" transform="translate(15 75)">
       <line id="Línea_647" data-name="Línea 647" y2="24" transform="translate(784.5 648)" fill="none" stroke="#757070" stroke-linecap="round" stroke-width="3"/>
       <line id="Línea_649" data-name="Línea 649" y2="31" transform="translate(784.5 720)" fill="none" stroke="#757070" stroke-width="3"/>
@@ -73,8 +80,8 @@ Formalizar RUT ante la DIAN" transform="translate(492.5 1041)" fill="#12263f" fo
       <rect id="Rectángulo_59638-2" data-name="Rectángulo 59638" width="317" height="64" rx="9" transform="translate(291.5 883)" fill="#7f0f98"/>
       <rect id="Rectángulo_59637-2" data-name="Rectángulo 59637" width="306" height="56" rx="9" transform="translate(297.5 887)" fill="#fff"/>
     </g>
-    <text id="Pasos_para_su_constitución" data-name="Pasos para su constitución" transform="translate(399.5 947)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="24.887" y="17">Pasos para su </tspan><tspan x="30.91" y="41">constitución</tspan></text>
-    <text id="Entidades_de_inspección_vigilancia_y_control" data-name="Entidades de inspección, vigilancia y control" transform="translate(990.5 947)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="1.348" y="17">Entidades de inspección, vigilancia y </tspan><tspan x="107.699" y="41">control</tspan></text>
+    <text id="Pasos_para_su_constitución" data-name="Pasos para su constitución" transform="translate(425.5 947)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="1.887" y="17">Pasos para su </tspan></text>
+    <text id="Entidades_de_inspección_vigilancia_y_control" data-name="Entidades de inspección, vigilancia y control" transform="translate(990.5 947)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="1.348" y="17">Entidades de inspección, vigilancia y </tspan></text>
     <g id="Grupo_182955" data-name="Grupo 182955" transform="translate(15 75)">
       <g id="Grupo_182949" data-name="Grupo 182949" transform="translate(445.472 966)">
         <g id="Grupo_182948" data-name="Grupo 182948" transform="translate(0 0)" clip-path="url(#clip-path)">
@@ -104,18 +111,11 @@ Formalizar RUT ante la DIAN" transform="translate(492.5 1041)" fill="#12263f" fo
     </g>
     <line id="Línea_664" data-name="Línea 664" y2="362" transform="translate(380 1008.5)" fill="none" stroke="#757070" stroke-width="3" stroke-dasharray="5"/>
     <g id="Grupo_171430" data-name="Grupo 171430" transform="translate(1182.039 -672.587)">
-      <circle id="Elipse_5386" data-name="Elipse 5386" cx="5" cy="5" r="5" transform="translate(236 2102) rotate(90)" fill="#00a3be"/>
-      <circle id="Elipse_5387" data-name="Elipse 5387" cx="5" cy="5" r="5" transform="translate(236 2088) rotate(90)" fill="#00a3be"/>
-      <circle id="Elipse_5388" data-name="Elipse 5388" cx="5" cy="5" r="5" transform="translate(236 2074) rotate(90)" fill="#00a3be"/>
-      <circle id="Elipse_5389" data-name="Elipse 5389" cx="5" cy="5" r="5" transform="translate(236 2058) rotate(90)" fill="#00a3be"/>
-      <circle id="Elipse_5390" data-name="Elipse 5390" cx="5" cy="5" r="5" transform="translate(236 2028) rotate(90)" fill="#00a3be"/>
-    </g>
-    <g id="Grupo_184970" data-name="Grupo 184970" transform="translate(-1825.5 1665) rotate(-90)">
-      <circle id="Elipse_5386-2" data-name="Elipse 5386" cx="5" cy="5" r="5" transform="translate(236 2102) rotate(90)" fill="#13b0a3"/>
-      <circle id="Elipse_5387-2" data-name="Elipse 5387" cx="5" cy="5" r="5" transform="translate(236 2088) rotate(90)" fill="#13b0a3"/>
-      <circle id="Elipse_5388-2" data-name="Elipse 5388" cx="5" cy="5" r="5" transform="translate(236 2074) rotate(90)" fill="#13b0a3"/>
-      <circle id="Elipse_5389-2" data-name="Elipse 5389" cx="5" cy="5" r="5" transform="translate(236 2058) rotate(90)" fill="#13b0a3"/>
-      <circle id="Elipse_5390-2" data-name="Elipse 5390" cx="5" cy="5" r="5" transform="translate(236 2028) rotate(90)" fill="#13b0a3"/>
+      <circle id="Elipse_5386-2" data-name="Elipse 5386" cx="5" cy="5" r="5" transform="translate(236 2102) rotate(90)" fill="#00a3be"/>
+      <circle id="Elipse_5387-2" data-name="Elipse 5387" cx="5" cy="5" r="5" transform="translate(236 2088) rotate(90)" fill="#00a3be"/>
+      <circle id="Elipse_5388-2" data-name="Elipse 5388" cx="5" cy="5" r="5" transform="translate(236 2074) rotate(90)" fill="#00a3be"/>
+      <circle id="Elipse_5389-2" data-name="Elipse 5389" cx="5" cy="5" r="5" transform="translate(236 2058) rotate(90)" fill="#00a3be"/>
+      <circle id="Elipse_5390-2" data-name="Elipse 5390" cx="5" cy="5" r="5" transform="translate(236 2028) rotate(90)" fill="#00a3be"/>
     </g>
   </g>
 </svg>

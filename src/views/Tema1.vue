@@ -102,7 +102,7 @@ export default {
 .container-text-bg
   display: flex
   position: relative
-  align-items: start
+  align-items: flex-start
   &::after
     position: absolute
     content: ''

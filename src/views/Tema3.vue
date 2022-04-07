@@ -202,7 +202,7 @@ export default {
 .container-text-bg-100
   position: relative
   display: flex
-  align-items: start
+  align-items: flex-start
   padding-top: 1rem
   padding-bottom: 1rem
   p

@@ -34,7 +34,7 @@ export default {
 .containe-color-bg-text
   position: relative
   display: flex
-  align-items: start
+  align-items: flex-start
   &::after
     position: absolute
     content: ''

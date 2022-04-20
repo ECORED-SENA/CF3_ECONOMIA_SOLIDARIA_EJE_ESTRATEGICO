@@ -49,7 +49,7 @@
       .col-12.col-md-2.ps-0.ps-md-3
         p.text-center(data-aos="fade-up") <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
       .col-12.col-md-3
-        p.px-4.text-center(data-aos="fade-up") <b>Superintendencia Bancaria</b> (actualmente Superintendencia Financiera) (Ley 79 de 1988, Ley 454 de 1998).
+        p.px-4.text-center(data-aos="fade-up") <b>Superintendencia Bancaria</b> (Actualmente Superintendencia Financiera) (Ley 79 de 1988, Ley 454 de 1998).
       .col-12.col-md-2
         p.pe-md-4.text-center(data-aos="fade-up") <b>Superintendencia de la Economía Solidaria</b> (Decreto 1481 de 1989. Ley 454 de 1998); Decreto 186 de 2004; Decreto 689 de 2005 y Decreto 590 de 2016.
       .col-12.col-md-2.ps-0.ps-md-4
@@ -74,9 +74,9 @@
     ImagenInfograficaB.color-primario.mb-5.img-modal-1
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema3/img_t_3-2.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema3/img_t_3-2.png')
 
-      div(x="20%" y="65%" tooltip="Superintendencia de la economía social" numero="")
+      div(x="20%" y="65%" tooltip="Superintendencia de la economía solidaria" numero="")
         img(src="@/assets/curso/tema3/decorador3.svg").img-modal
         .ps-0.ps-md-5
           p(style="color: black !important").ps-0.ps-md-5.ms-0.ms-md-5 Es una entidad pública que hace parte de la rama ejecutiva encabezada por el presidente de la república y cuya misión es “Trabajar por la sostenibilidad de las organizaciones, la protección de los derechos de los asociados y de la comunidad en general, anticipándose a los desafíos para el posicionamiento y avance de la economía solidaria” (Supersolidaria, 2021).
@@ -90,7 +90,7 @@
                 | - Compromiso. <br>
                 | - Solidaridad. <br>
             img(src="@/assets/curso/tema3/img_t_3-3.png" style="max-width: 216px").mx-auto
-          p(style="color: black !important") La Supersolidaria es la encargada de supervisar la gestión empresarial, económica, social y política de las organizaciones sin ánimo de lucro velando por que se conserve los principios y valores corporativos que implican el buen gobierno. <br><br>
+          p(style="color: black !important") La Supersolidaria es la encargada de supervisar la gestión empresarial, económica, social y política de las organizaciones sin ánimo de lucro, velando porque se conserve los principios y valores corporativos que implican el buen gobierno. <br><br>
             | En consecuencia, esta supervisión se realiza a través de la solicitud de control de legalidad, después de que la empresa solidaria se registre en la Cámara de Comercio correspondiente, mediante el portal de sede electrónica en donde encontrará el enlace para iniciar el trámite, el cual se denomina Control de legalidad de la constitución de entidades del sector real sometidas a supervisión de la Superintendencia de la Economía Solidaria.
           <audio controls class="audio_1">
             <source :src="obtenerLink('/downloads/audio_1.mp3')">

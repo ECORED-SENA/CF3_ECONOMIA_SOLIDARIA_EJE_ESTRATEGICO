@@ -4,7 +4,7 @@
       <rect id="Rectángulo_60329" data-name="Rectángulo 60329" width="186.11" height="183.449" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Grupo_184968" data-name="Grupo 184968" transform="translate(2584 8567)">
+  <g id="Grupo_184972" data-name="Grupo 184972" transform="translate(2584 8567)">
     <g id="Grupo_182766" data-name="Grupo 182766" transform="translate(-2584 -8567)">
       <g id="Grupo_182482" data-name="Grupo 182482" clip-path="url(#clip-path)">
         <circle id="Elipse_5435" data-name="Elipse 5435" cx="74" cy="74" r="74" transform="translate(21.11 18)" fill="#fff"/>
@@ -12,6 +12,6 @@
         <path id="Trazado_217727" data-name="Trazado 217727" d="M247.124,117.866a13.153,13.153,0,1,1-13.152-13.154,13.153,13.153,0,0,1,13.152,13.154" transform="translate(-220.818 -28.933)" fill="#f4511e"/>
       </g>
     </g>
-    <text id="Superintendencia_Financiera_de_Colombia" data-name="Superintendencia Financiera de Colombia" transform="translate(-2556 -8505)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="1.855" y="17">Superintendencia </tspan><tspan x="16.715" y="37">Financiera de </tspan></text>
+    <text id="Superintendencia_Financiera_de_Colombia" data-name="Superintendencia Financiera de Colombia" transform="translate(-2556 -8505)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="1.855" y="17">Superintendencia </tspan><tspan x="16.715" y="37">Financiera de </tspan><tspan x="30.758" y="57">Colombia</tspan></text>
   </g>
 </svg>

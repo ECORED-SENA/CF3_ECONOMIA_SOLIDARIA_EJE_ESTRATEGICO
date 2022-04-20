@@ -42,11 +42,11 @@
     .container_link.position-relative.col-12.col-md-11.mx-auto.d-flex.flex-wrap.flex-md-nowrap.mb-5
       img(src="@/assets/curso/tema2/img_t_2-2.png" data-aos="zoom-in" style="max-width: 419px; margin-top: -2.5rem")
       .my-auto.position-relative.w-100
-        p(style="color: white").pe-0.pe-md-5.pb-4 Estimado aprendiz, para profundizar sobre el tema te invitamos a <br> descargar el siguiente PDF:
+        p(style="color: white").pe-0.pe-md-5.pb-4 Estimado aprendiz, para profundizar sobre el tema, te invitamos a <br> descargar el siguiente PDF:
         .w-100.d-flex.justify-content-center.pe-0.pe-md-5.mt-5
           .mx-auto.text-center
             p.fw-bold(style="color: white") "Pasos para la constitución de una empresa"
-            a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Pasos para la constitución de una empresa.pdf')" target="_blank" style="background-color: #FFD947")
+            a.boton.color-acento-contenido(:href="obtenerLink('/downloads/PasosParaLaConstitucionDeUnaEmpresa.pdf')" target="_blank" style="background-color: #FFD947")
               span(style="color: black") Descargar
               i.fas.fa-file-download(style="color: black")
           img(src="@/assets/curso/tema2/decorador3.svg" data-aos="fade-left" style="max-width: 36px; margin-right: 3rem")

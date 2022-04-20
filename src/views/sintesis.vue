@@ -2,11 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-primario
-      .titulo-principal__numero
-        span(style="color: white") D
-      h1 SÍNTESIS
-
     .d-flex.mb-5
       img(src="@/assets/curso/introduccion/decorador1.svg" style="max-width: 10px").me-3
       .container-texti-before-after
